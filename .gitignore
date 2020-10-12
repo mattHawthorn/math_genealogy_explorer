@@ -4,6 +4,10 @@
 # database
 *.sqlite
 
+# notebooks
+*.ipynb
+*.ipynb_checkpoints/
+
 # PyCharm
 .idea/
 
