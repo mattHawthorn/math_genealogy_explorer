@@ -1,3 +1,9 @@
+# scraping cache
+.cache/
+
+# database
+*.sqlite
+
 # PyCharm
 .idea/
 
@@ -5,9 +11,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
-# cached bourbaki.application.CommandLineInterface
-*-cached.pkl
 
 # C extensions
 *.so
